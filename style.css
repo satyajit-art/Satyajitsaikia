@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 .navbar1 {
-    background-image: url(header.jpg);
+    background-image: url(./header.jpg);
     background-size: cover;
     height: 700px;
     width: 100%;
